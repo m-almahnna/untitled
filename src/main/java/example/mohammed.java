@@ -1,8 +1,8 @@
 package example;
 
-import javax.ws.rs.Path;
+//import javax.ws.rs.Path;
 
-@Path("mod/m")
+//@Path("mod/m")
 
 public class mohammed {
     private String Name;

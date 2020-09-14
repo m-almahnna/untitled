@@ -9,10 +9,10 @@ import javax.ws.rs.core.MediaType;
 @Path("first/example")
 
 public class FirstExampleController {
-
+    @GET
     @Produces(MediaType.APPLICATION_JSON)
     @Consumes(MediaType.APPLICATION_JSON)
-    @GET
+
     public Person getPersonInformation() {
         return new Person("FirstName", "LastName", 1212222);
     }
