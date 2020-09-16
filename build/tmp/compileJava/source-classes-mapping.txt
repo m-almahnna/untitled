@@ -6,7 +6,7 @@ example/FirstExampleController.java
  example.FirstExampleController
 example/mohammed.java
  example.mohammed
-example/ch1/Bird.java
- example.ch1.Bird
 example/ch4/Student.java
  example.ch4.Student
+example/ch1/Bird.java
+ example.ch1.Bird
