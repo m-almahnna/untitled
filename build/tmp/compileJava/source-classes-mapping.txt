@@ -20,3 +20,5 @@ example/date/Int2String.java
  example.date.Int2String
 example/date/String2Int.java
  example.date.String2Int
+example/date/StringSubString.java
+ example.date.StringSubString
