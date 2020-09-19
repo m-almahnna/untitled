@@ -24,3 +24,5 @@ example/date/StringSubString.java
  example.date.StringSubString
 example/date/CalendarExample.java
  example.date.CalendarExample
+example/date/HijriDate.java
+ example.date.HijriDate
