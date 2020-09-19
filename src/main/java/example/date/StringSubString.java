@@ -8,8 +8,8 @@ public class StringSubString {
 
         System.out.println(myFirst);
 
-        String myLast = myName.substring(9,myName.length());
-
+        String myLast = myName.substring(9);
+       // String myLast = myName.substring(9,myName.length());
         System.out.println(myLast);
 
     }
